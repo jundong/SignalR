@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyCompany("Microsoft Open Technologies, Inc.")]
-[assembly: AssemblyCopyright("© Microsoft Open Technologies, Inc. All rights reserved.")]
+[assembly: AssemblyCompany(".NET Foundation")]
+[assembly: AssemblyCopyright("© Copyright (c) .NET Foundation. All rights reserved.")]
 [assembly: AssemblyProduct("Microsoft ASP.NET SignalR")]
 [assembly: AssemblyMetadata("Serviceable", "True")]
 [assembly: AssemblyTrademark("")]
